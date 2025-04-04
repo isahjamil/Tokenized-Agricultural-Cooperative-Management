@@ -7,3 +7,5 @@ Q
 !tests/member-verification.test.ts,3/c/3c040b5c44e9b285c26aab182ae1457c5fb19234
 S
 #tests/collective-purchasing.test.ts,a/6/a602a41237701da89be234886a5cadbb7c9acc61
+R
+"contracts/member-verification.clar,e/4/e499652a0eb8f1d77acad2ac9ef8158a9b7721fd
